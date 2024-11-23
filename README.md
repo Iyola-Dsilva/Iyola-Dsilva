@@ -1,6 +1,5 @@
-- 👋 Hi, I’m @Iyola-Dsilva
+- 👋 Hi, I’m Iyola-Dsilva
 - 🌱 MCA student with a deep interest in Machine Learning ,Data Science and web development.
-- 😄 I wish to continue building my skills in ML, contribute to impactful projects, and eventually work in a role where I can apply my knowledge to solve real-world problems.
 
 
 
