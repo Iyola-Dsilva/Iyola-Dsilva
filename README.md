@@ -1,6 +1,5 @@
 - 👋 Hi, I’m Iyola-Dsilva
-- 🌱 MCA student with a deep interest in Machine Learning ,Data Science and web development.
-
+- 🌱 MCA student with a deep interest in Data Analysis , Data Science and ML .
 
 
 <!---
